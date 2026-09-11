@@ -1,4 +1,4 @@
-<img width="1378" height="292" alt="Challenges_update" src="https://github.com/user-attachments/assets/f08fd323-8476-4262-90b6-039204fe11a7" />
+<img width="1404" height="299" alt="50 Challenges complete so far" src="https://github.com/user-attachments/assets/e30e9e6a-735d-4b91-aee2-aceb05134e30" />
 
 # TryHackMe-Challenges
-This will display the Red, Purple and Blue team challenges i completed on THM so far 40 completed will update as i complete them.
+This will display the Red, Purple and Blue team challenges i completed on THM so far updating when i complete a challenge.
